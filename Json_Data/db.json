@@ -1,0 +1,69 @@
+{
+  "books": [
+    {
+      "title": "The Great Gatsby",
+      "author": "F. Scott Fitzgerald",
+      "genre": "Fiction",
+      "year": 1926,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "To Kill a Mockingbird",
+      "author": "Harper Lee",
+      "genre": "Fiction",
+      "year": 1960
+    },
+    {
+      "id": "3",
+      "title": "1984",
+      "author": "George Orwell",
+      "genre": "Dystopian",
+      "year": 1949
+    },
+    {
+      "id": "4",
+      "title": "A Brief History of Time",
+      "author": "Stephen Hawking",
+      "genre": "Science",
+      "year": 1988
+    },
+    {
+      "id": "5",
+      "title": "The Catcher in the Rye",
+      "author": "J.D. Salinger",
+      "genre": "Fiction",
+      "year": 1951
+    },
+    {
+      "id": "6",
+      "title": "Sapiens",
+      "author": "Yuval Noah Harari",
+      "genre": "History",
+      "year": 2011
+    },
+    {
+      "id": "7",
+      "title": "Dune",
+      "author": "Frank Herbert",
+      "genre": "Sci-Fi",
+      "year": 1965
+    },
+    {
+      "id": "8",
+      "title": "The Hobbit",
+      "author": "J.R.R. Tolkien",
+      "genre": "Fantasy",
+      "year": 1937
+    },
+    {
+      "title": "Wings of Fire",
+      "author": "Dr. APJ Kalam",
+      "genre": "Science",
+      "year": 2000,
+      "imageUrl": "https://res.cloudinary.com/dbcvbvck7/image/upload/v1779799957/qt4wxsekrsbzhdvwjaw1.jpg",
+      "id": "eUf_dcZvpV0"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
