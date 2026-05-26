@@ -1,10 +1,10 @@
-# 📚 BookWiser — Book Management System
+#  BookWiser — Book Management System
 
 A React-based Book Management System that allows users to view, add, update, and delete books with image upload support via Cloudinary.
 
 ---
 
-## 🔗 Links
+##  Links
 
 - **GitHub Repository:** [https://github.com/vishwajit-07/book_wiser](https://github.com/vishwajit-07/book_wiser)
 - **Live Demo:** [https://bookorg.vercel.app](https://bookorg.vercel.app)
@@ -42,7 +42,7 @@ Make sure you have the following installed:
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 
