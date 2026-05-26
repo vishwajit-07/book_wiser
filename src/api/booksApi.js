@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: '/api/books',
+  baseURL: 'https://6a159fcd91ff9a63de0881d3.mockapi.io/books',
   timeout: 8000,
 });
 
